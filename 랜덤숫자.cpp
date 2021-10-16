@@ -1,4 +1,4 @@
-//·£´ı ¹æ¹ı1
+//ëœë¤ ë°©ë²•1
 //#include <random>
 //#include <iostream>
 //using namespace std;
@@ -7,14 +7,14 @@
 //{
 //    random_device rd; 
 //    mt19937 gen(rd());
-//    uniform_real_distribution<> dis(1, 20); //°ıÈ£¾È : ¹üÀ§
+//    uniform_real_distribution<> dis(1, 20); //ê´„í˜¸ì•ˆ : ë²”ìœ„
 //    for (int i = 0; i < 10; i++) {
 //        cout << static_cast<int>(dis(gen)) << ' ';
 //    }
 //    cout << '\n';
 //}
 
-//·£´ı ¹æ¹ı2
+//ëœë¤ ë°©ë²•2
 //#include <iostream>
 //#include <ctime>
 //#include <cstdlib>
@@ -23,8 +23,8 @@
 //int main() {
 //	srand(time(0));
 //	for (int i = 0; i < 10; i++) {
-//		int temp = rand() % ((100 - 1) + 1); // 0~99 ¹üÀ§
-//		int result = temp + 5; // ¹üÀ§ÀÌµ¿ (5~104);
+//		int temp = rand() % ((100 - 1) + 1); // 0~99 ë²”ìœ„
+//		int result = temp + 5; // ë²”ìœ„ì´ë™ (5~104);
 //		cout << result << " ";
 //	}
 //	return 0;
