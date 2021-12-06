@@ -1,7 +1,9 @@
 #include <iostream>
 using namespace std;
 
-int main(){
-	cout << "my name is seung woon" << endl;
+int main() {
+
+	// 연습입니다.
+
 	return 0;
 }
