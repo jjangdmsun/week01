@@ -3,7 +3,8 @@ using namespace std;
 
 int main() {
 
-	// ¿¬½ÀÀÔ´Ï´Ù.
+	// ì—°ìŠµì…ë‹ˆë‹¤.
+	// version 3
 
 	return 0;
 }
